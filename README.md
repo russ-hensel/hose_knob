@@ -21,5 +21,5 @@ Status:
 ``` 		
 Documentation:
 	
-<img src=hex_nut.png width=500>
+<img src=./image/hex_nut.png width=500>
 
