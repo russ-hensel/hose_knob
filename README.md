@@ -21,5 +21,10 @@ Status:
 ``` 		
 Documentation:
 	
-<img src=./image/hex_nut.png width=500>
+<img src=image/hex_nut.png alt="Smiley face" width=500>
+ ![Alt text](image/hex_nut.png) 
+<div align="center">
+    <img src="image/hex_nut.png" width="400px"</img> 
+</div>
 
+![Alt text](image/hex_nut.png?raw=true "Title")
