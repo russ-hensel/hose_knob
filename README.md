@@ -24,3 +24,18 @@ Documentation:
 	
 <img src="octo_nut.png" alt="Octo Nut" width=500>
 
+------------------------- development environment ------------------
+
+
+OS: Windows 10
+Word size of OS: 64-bit
+Word size of FreeCAD: 64-bit
+Version: 0.18.15959 (Git)
+Build type: Release
+Branch: master
+Hash: 397418078a6f61e8c39cedfe1160adc2abd73510
+Python version: 2.7.14
+Qt version: 4.8.7
+Coin version: 4.0.0a
+OCC version: 7.2.0
+Locale: English/UnitedStates (en_US)
