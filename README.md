@@ -4,9 +4,10 @@ knob for the female end of a hose for tool free connections
 What:
 
 	A parametric model of a knob for tool free hose connections.
-	 
+	This adds "fingers" to the female end of the hose so you can exert
+	a large force on the connector without using tools.
 	
-	More info on this below.
+	
 
 Status:
 	Hex and Octo versions printed, and seem to work well.  Still messing with them, round version not finished yet 
@@ -21,10 +22,5 @@ Status:
 ``` 		
 Documentation:
 	
-<img src=image/hex_nut.png alt="Smiley face" width=500>
- ![Alt text](image/hex_nut.png) 
-<div align="center">
-    <img src="image/hex_nut.png" width="400px"</img> 
-</div>
+<img src="octo_nut.png" alt="Octo Nut" width=500>
 
-![Alt text](image/hex_nut.png?raw=true "Title")
