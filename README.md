@@ -24,6 +24,8 @@ Documentation:
 	
 <img src="octo_nut.png" alt="Octo Nut" width=500>
 
+See wiki and images for more info, and if necessary contact me.
+
 ------------------------- development environment ------------------
 
 
